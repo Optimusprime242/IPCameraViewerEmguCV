@@ -1,0 +1,16 @@
+D:\Visual Studio Project\IPCameraViewerEmguCV\IPCameraViewerEmguCV\bin\Debug\IPCameraViewerEmguCV.exe.config
+D:\Visual Studio Project\IPCameraViewerEmguCV\IPCameraViewerEmguCV\bin\Debug\IPCameraViewerEmguCV.exe
+D:\Visual Studio Project\IPCameraViewerEmguCV\IPCameraViewerEmguCV\bin\Debug\IPCameraViewerEmguCV.pdb
+D:\Visual Studio Project\IPCameraViewerEmguCV\IPCameraViewerEmguCV\bin\Debug\Emgu.CV.dll
+D:\Visual Studio Project\IPCameraViewerEmguCV\IPCameraViewerEmguCV\bin\Debug\Emgu.CV.UI.dll
+D:\Visual Studio Project\IPCameraViewerEmguCV\IPCameraViewerEmguCV\bin\Debug\Emgu.Util.dll
+D:\Visual Studio Project\IPCameraViewerEmguCV\IPCameraViewerEmguCV\bin\Debug\ZedGraph.dll
+D:\Visual Studio Project\IPCameraViewerEmguCV\IPCameraViewerEmguCV\bin\Debug\Emgu.CV.xml
+D:\Visual Studio Project\IPCameraViewerEmguCV\IPCameraViewerEmguCV\bin\Debug\Emgu.CV.UI.xml
+D:\Visual Studio Project\IPCameraViewerEmguCV\IPCameraViewerEmguCV\bin\Debug\Emgu.Util.xml
+D:\Visual Studio Project\IPCameraViewerEmguCV\IPCameraViewerEmguCV\obj\Debug\IPCameraViewerEmguCV.Form1.resources
+D:\Visual Studio Project\IPCameraViewerEmguCV\IPCameraViewerEmguCV\obj\Debug\IPCameraViewerEmguCV.Properties.Resources.resources
+D:\Visual Studio Project\IPCameraViewerEmguCV\IPCameraViewerEmguCV\obj\Debug\IPCameraViewerEmguCV.csproj.GenerateResource.Cache
+D:\Visual Studio Project\IPCameraViewerEmguCV\IPCameraViewerEmguCV\obj\Debug\IPCameraViewerEmguCV.exe
+D:\Visual Studio Project\IPCameraViewerEmguCV\IPCameraViewerEmguCV\obj\Debug\IPCameraViewerEmguCV.pdb
+D:\Visual Studio Project\IPCameraViewerEmguCV\IPCameraViewerEmguCV\obj\Debug\IPCameraViewerEmguCV.csprojResolveAssemblyReference.cache
